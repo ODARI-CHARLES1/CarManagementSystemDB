@@ -1,4 +1,6 @@
-# Car Rental Management System (SQL Server Project)![1759689510233](image/Readme/1759689510233.png)
+# Car Rental Management System (SQL Server Project)
+
+![1759689510233](image/Readme/1759689510233.png)
 
 ## Overview
 
